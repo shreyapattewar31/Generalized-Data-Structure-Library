@@ -7,6 +7,7 @@ template <class T>
 //
 // Structure name:  nodeSL
 // Description:     It is used to store data and maintain connections between elements in a singly linear linked list.
+// Author:         Shreya Pattewar
 //
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
